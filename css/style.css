@@ -1,6 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Lobster&display=swap');
+
 body{
     background-color: pink;
     color: green;
     align-items: center;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 250%;
+}
+
+#ily{
+    font-size: 400%;
+    font-family: 'Lobster', cursive;
 }
